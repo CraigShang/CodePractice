@@ -25,6 +25,8 @@ Note:
 A.length == 4
 0 <= A[i] <= 9
 
+Answer:
+
 class Solution {
     public String largestTimeFromDigits(int[] A)
     {
